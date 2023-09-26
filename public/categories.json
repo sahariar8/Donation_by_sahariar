@@ -1,0 +1,161 @@
+[
+    {
+      "id": 1,
+      "logo": "https://i.ibb.co/DwzY0k1/pexels-rdne-stock-project-6646967.jpg",
+      "title": "Healthy Kids Initiative",
+      "category": "Health",
+      "color": {
+        "card_bg_color":"#F2F6FF",
+        "title_bg_color":"#C2D5FF",
+        "text_color":"#0052FF"
+      },
+      "details": "The Health category is dedicated to safeguarding the well-being of children. Our foundation strives to provide essential healthcare services, medical support, and health education to underprivileged children. We aim to keep children healthy, both physically and emotionally, for a brighter future.The Health category is dedicated to safeguarding the well-being of children. Our foundation strives to provide essential healthcare services, medical support, and health education to underprivileged children. We aim to keep children healthy, both physically and emotionally, for a brighter future.The Health category is dedicated to safeguarding the well-being of children. Our foundation strives to provide essential healthcare services, medical support, and health education to underprivileged children. We aim to keep children healthy, both physically and emotionally, for a brighter future.",
+      "donation_amount": 100
+    },
+    {
+      "id": 2,
+      "logo": "https://i.ibb.co/CKbMt69/pexels-julia-m-cameron-6994982.jpg",
+      "title": "Clothe the Future",
+      "category": "Clothing",
+      "color": {
+        "card_bg_color":"#F8FCF5",
+        "title_bg_color":"#DFF0D1",
+        "text_color":"#7CC458"
+      },
+      "details": "The Clothing category aims to protect children from the harsh elements and promote their dignity. Our foundation is dedicated to providing warm clothing, shoes, and essential garments to children who lack proper attire. We believe that every child deserves to be comfortably clothed.The Clothing category aims to protect children from the harsh elements and promote their dignity. Our foundation is dedicated to providing warm clothing, shoes, and essential garments to children who lack proper attire. We believe that every child deserves to be comfortably clothed.The Clothing category aims to protect children from the harsh elements and promote their dignity. Our foundation is dedicated to providing warm clothing, shoes, and essential garments to children who lack proper attire. We believe that every child deserves to be comfortably clothed.",
+      "donation_amount": 50
+    },
+    {
+      "id": 3,
+      "logo": "https://i.ibb.co/N7GQ8D4/pexels-cottonbro-studio-4778621.jpg",
+      "title": "Education for All Kids",
+      "category": "Education",
+      "color": {
+        "card_bg_color":"#FFF6F6",
+        "title_bg_color":"#FFD2D4",
+        "text_color":"#FF444A"
+      },
+      "details": "The Education category is focused on empowering children through knowledge. Our foundation is committed to ensuring that every child has access to quality education. We provide educational resources, support, and opportunities to underprivileged children, helping them reach their full potential and achieve their dreams.The Education category is focused on empowering children through knowledge. Our foundation is committed to ensuring that every child has access to quality education. We provide educational resources, support, and opportunities to underprivileged children, helping them reach their full potential and achieve their dreams.The Education category is focused on empowering children through knowledge. Our foundation is committed to ensuring that every child has access to quality education. We provide educational resources, support, and opportunities to underprivileged children, helping them reach their full potential and achieve their dreams.",
+      "donation_amount": 75
+    },
+    {
+      "id": 4,
+      "logo": "https://i.ibb.co/j3RcS4m/pexels-julia-m-cameron-6995244.jpg",
+      "title": "Nourish Our Youth",
+      "category": "Food",
+      "color": {
+        "card_bg_color":"#FFF8F6",
+        "title_bg_color":"#FEDDD3",
+        "text_color":"#F87147"
+      },
+      "details": "The Food category focuses on ensuring that no child goes to bed hungry. Our foundation is committed to providing nutritious meals and addressing food insecurity among children in need. We believe that access to proper nutrition is fundamental to a child's growth and development.The Food category focuses on ensuring that no child goes to bed hungry. Our foundation is committed to providing nutritious meals and addressing food insecurity among children in need. We believe that access to proper nutrition is fundamental to a child's growth and development.The Food category focuses on ensuring that no child goes to bed hungry. Our foundation is committed to providing nutritious meals and addressing food insecurity among children in need. We believe that access to proper nutrition is fundamental to a child's growth and development.",
+      "donation_amount": 60
+    },
+    {
+        "id": 5,
+        "logo": "https://i.ibb.co/YLzNddV/pexels-julia-m-cameron-6994929.jpg",
+        "title": "Warm Hearts Clothing Drive",
+        "category": "Clothing",
+        "color": {
+            "card_bg_color":"#F8FCF5",
+            "title_bg_color":"#DFF0D1",
+            "text_color":"#7CC458"
+          },
+        "details": "The Clothing category aims to protect children from the harsh elements and promote their dignity. Our foundation is dedicated to providing warm clothing, shoes, and essential garments to children who lack proper attire. We believe that every child deserves to be comfortably clothed.The Clothing category aims to protect children from the harsh elements and promote their dignity. Our foundation is dedicated to providing warm clothing, shoes, and essential garments to children who lack proper attire. We believe that every child deserves to be comfortably clothed.The Clothing category aims to protect children from the harsh elements and promote their dignity. Our foundation is dedicated to providing warm clothing, shoes, and essential garments to children who lack proper attire. We believe that every child deserves to be comfortably clothed.",
+        "donation_amount": 80
+    },
+    {
+        "id": 6,
+        "logo": "https://i.ibb.co/Bj8zgYh/pexels-julia-m-cameron-6995201.jpg",
+        "title": "Feeding Hope Foundation",
+        "category": "Food",
+        "color": {
+            "card_bg_color":"#FFF8F6",
+            "title_bg_color":"#FEDDD3",
+            "text_color":"#F87147"
+          },
+        "details": "The Food category focuses on ensuring that no child goes to bed hungry. Our foundation is committed to providing nutritious meals and addressing food insecurity among children in need. We believe that access to proper nutrition is fundamental to a child's growth and development.The Food category focuses on ensuring that no child goes to bed hungry. Our foundation is committed to providing nutritious meals and addressing food insecurity among children in need. We believe that access to proper nutrition is fundamental to a child's growth and development.The Food category focuses on ensuring that no child goes to bed hungry. Our foundation is committed to providing nutritious meals and addressing food insecurity among children in need. We believe that access to proper nutrition is fundamental to a child's growth and development.",
+        "donation_amount": 70
+    },
+    
+    {
+      "id": 7,
+      "logo": "https://i.ibb.co/MPDtVnW/pexels-pixabay-208512.jpg",
+      "title": "Children's Health First",
+      "category": "Health",
+      "color": {
+        "card_bg_color":"#F2F6FF",
+        "title_bg_color":"#C2D5FF",
+        "text_color":"#0052FF"
+      },
+      "details": "The Health category is dedicated to safeguarding the well-being of children. Our foundation strives to provide essential healthcare services, medical support, and health education to underprivileged children. We aim to keep children healthy, both physically and emotionally, for a brighter future.The Health category is dedicated to safeguarding the well-being of children. Our foundation strives to provide essential healthcare services, medical support, and health education to underprivileged children. We aim to keep children healthy, both physically and emotionally, for a brighter future.The Health category is dedicated to safeguarding the well-being of children. Our foundation strives to provide essential healthcare services, medical support, and health education to underprivileged children. We aim to keep children healthy, both physically and emotionally, for a brighter future.",
+      "donation_amount": 120
+    },
+    {
+        "id": 8,
+        "logo": "https://i.ibb.co/fdVSd6v/pexels-pixabay-256431.jpg",
+        "title": "Educate Tomorrow's Leaders",
+        "category": "Education",
+        "color": {
+            "card_bg_color":"#FFF6F6",
+            "title_bg_color":"#FFD2D4",
+            "text_color":"#FF444A"
+          },
+        "details": "The Education category is focused on empowering children through knowledge. Our foundation is committed to ensuring that every child has access to quality education. We provide educational resources, support, and opportunities to underprivileged children, helping them reach their full potential and achieve their dreams.The Education category is focused on empowering children through knowledge. Our foundation is committed to ensuring that every child has access to quality education. We provide educational resources, support, and opportunities to underprivileged children, helping them reach their full potential and achieve their dreams.The Education category is focused on empowering children through knowledge. Our foundation is committed to ensuring that every child has access to quality education. We provide educational resources, support, and opportunities to underprivileged children, helping them reach their full potential and achieve their dreams.",
+        "donation_amount": 90
+    },
+    {
+      "id": 9,
+      "logo": "https://i.ibb.co/x1sHTyv/pexels-pranidchakan-boonrom-1350560.jpg",
+      "title": "Healthy Start for Kids",
+      "category": "Health",
+      "color": {
+        "card_bg_color":"#F2F6FF",
+        "title_bg_color":"#C2D5FF",
+        "text_color":"#0052FF"
+      },
+      "details": "The Health category is dedicated to safeguarding the well-being of children. Our foundation strives to provide essential healthcare services, medical support, and health education to underprivileged children. We aim to keep children healthy, both physically and emotionally, for a brighter future.The Health category is dedicated to safeguarding the well-being of children. Our foundation strives to provide essential healthcare services, medical support, and health education to underprivileged children. We aim to keep children healthy, both physically and emotionally, for a brighter future.The Health category is dedicated to safeguarding the well-being of children. Our foundation strives to provide essential healthcare services, medical support, and health education to underprivileged children. We aim to keep children healthy, both physically and emotionally, for a brighter future.",
+      "donation_amount": 110
+    },
+    {
+        "id": 10,
+        "logo": "https://i.ibb.co/Bgn3s9n/pexels-towfiqu-barbhuiya-11200117.jpg",
+        "title": "Warm Hearts, Bright Minds",
+        "category": "Clothing",
+        "color": {
+            "card_bg_color":"#F8FCF5",
+            "title_bg_color":"#DFF0D1",
+            "text_color":"#7CC458"
+          },
+        "details": "The Clothing category aims to protect children from the harsh elements and promote their dignity. Our foundation is dedicated to providing warm clothing, shoes, and essential garments to children who lack proper attire. We believe that every child deserves to be comfortably clothed.The Clothing category aims to protect children from the harsh elements and promote their dignity. Our foundation is dedicated to providing warm clothing, shoes, and essential garments to children who lack proper attire. We believe that every child deserves to be comfortably clothed.The Clothing category aims to protect children from the harsh elements and promote their dignity. Our foundation is dedicated to providing warm clothing, shoes, and essential garments to children who lack proper attire. We believe that every child deserves to be comfortably clothed.",
+        "donation_amount": 85
+    },
+    {
+        "id": 11,
+        "logo": "https://i.ibb.co/k63Q7VS/pexels-olia-danilevich-5088180.jpg",
+        "title": "EduCare Foundation",
+        "category": "Education",
+        "color": {
+            "card_bg_color":"#FFF6F6",
+            "title_bg_color":"#FFD2D4",
+            "text_color":"#FF444A"
+          },
+        "details": "The Education category is focused on empowering children through knowledge. Our foundation is committed to ensuring that every child has access to quality education. We provide educational resources, support, and opportunities to underprivileged children, helping them reach their full potential and achieve their dreams.The Education category is focused on empowering children through knowledge. Our foundation is committed to ensuring that every child has access to quality education. We provide educational resources, support, and opportunities to underprivileged children, helping them reach their full potential and achieve their dreams.The Education category is focused on empowering children through knowledge. Our foundation is committed to ensuring that every child has access to quality education. We provide educational resources, support, and opportunities to underprivileged children, helping them reach their full potential and achieve their dreams.",
+        "donation_amount": 95
+    },
+    {
+      "id": 12,
+      "logo": "https://i.ibb.co/4jz7hsn/pexels-julia-m-cameron-6995247.jpg",
+      "title": "Food for Thought",
+      "category": "Food",
+      "color": {
+        "card_bg_color":"#FFF8F6",
+        "title_bg_color":"#FEDDD3",
+        "text_color":"#F87147"
+      },
+      "details": "The Food category focuses on ensuring that no child goes to bed hungry. Our foundation is committed to providing nutritious meals and addressing food insecurity among children in need. We believe that access to proper nutrition is fundamental to a child's growth and development.The Food category focuses on ensuring that no child goes to bed hungry. Our foundation is committed to providing nutritious meals and addressing food insecurity among children in need. We believe that access to proper nutrition is fundamental to a child's growth and development.The Food category focuses on ensuring that no child goes to bed hungry. Our foundation is committed to providing nutritious meals and addressing food insecurity among children in need. We believe that access to proper nutrition is fundamental to a child's growth and development.",
+      "donation_amount": 55
+    }
+    
+  ]
+  
