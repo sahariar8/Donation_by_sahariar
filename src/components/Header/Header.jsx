@@ -15,7 +15,7 @@ const Header = () => {
       <div className="max-w-screen-xl mx-auto">
         <div className="navbar">
           <div className="navbar-start">
-            <div className="dropdown">
+            <div className="dropdown py-2">
               <label tabIndex={0} className="btn btn-ghost lg:hidden">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -34,7 +34,7 @@ const Header = () => {
               </label>
               <ul
                 tabIndex={0}
-                className="py-4 menu  dropdown-content mt-3 z-[1] p-4 shadow bg-base-100 rounded-box w-52 font-semibold"
+                className="py-6 menu  dropdown-content mt-3 z-[1] p-4 shadow bg-base-100 rounded-box w-52 font-semibold"
               >
                 {Item}
               </ul>

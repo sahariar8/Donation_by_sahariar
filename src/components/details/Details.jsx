@@ -34,14 +34,14 @@ const Details = () => {
     return (
         <div className='max-w-screen-xl mx-auto  py-20'> 
            <div className='relative'>
-              <img src={logo} alt="" className='w-full h-[600px] rounded-lg'/>
+              <img src={logo} alt="" className='w-full h-[280px] md:h-[600px] rounded-lg'/>
               <div className='absolute bottom-0 left-0 right-0 px-6 py-8 bg-black bg-opacity-50 text-white'>
                     <button onClick={handleAddToDonation} className='px-4 py-3 bg-red-600 font-bold text-white rounded-lg' style={{backgroundColor:color.text_color}}>Donate ${donation_amount}</button>
               </div>
            </div>
-           <div className='pt-12'>
+           <div className='ml-3 pt-12 md:ml-0'>
                 <p className='text-3xl font-bold'>{title}</p>
-                <p className='py-5 text-sm text-slate-700'>{details}</p>
+                <p className='py-5  text-sm text-slate-700 '>{details}</p>
            </div>
         </div>
     );
